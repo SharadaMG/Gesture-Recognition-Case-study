@@ -2,12 +2,6 @@
 
 PG Diploma in Machine Learning and AI from IIIT Bangalore | Upgrad
 
-Developed by:
-1. Deepa Kushwaha - Group facilitator
-2. Prateek Ralhan
-
-******** COHORT 11 *************
-
 #############################################################################
 
 Solution - NEURAL NETWORKS PROJECT - GESTURE RECOGNITION - DL
